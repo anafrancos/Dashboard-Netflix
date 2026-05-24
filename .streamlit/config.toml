@@ -1,0 +1,13 @@
+[theme]
+base="dark"
+primaryColor="#E50914"           # Vermelho Netflix
+backgroundColor="#141414"        # Preto/cinza escuro
+secondaryBackgroundColor="#2D2D2D"
+textColor="#FFFFFF"
+font="sans serif"
+
+[theme.sidebar]
+primaryColor="#E50914"
+backgroundColor="#000000"
+secondaryBackgroundColor="#1A1A1A"
+textColor="#FFFFFF"

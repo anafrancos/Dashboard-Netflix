@@ -1,0 +1,18 @@
+.stApp{
+    background-color:#141414;
+}
+
+[data-testid="stMetric"]{
+    background-color:#1F1F1F;
+    border:1px solid #E50914;
+    padding:15px;
+    border-radius:15px;
+}
+
+h1,h2,h3{
+    color:white;
+}
+
+[data-testid="stSidebar"]{
+    background-color:#1A1A1A;
+}
